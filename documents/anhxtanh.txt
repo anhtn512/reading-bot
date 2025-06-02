@@ -1,0 +1,83 @@
+Năm 1921, Albert Einstein nhận giải Nobel Vật lý . Do thuyết tương đối hẹp vẫn còn đang là một chủ đề gây tranh cãi, nên hội đồng giải Nobel đã trao giải cho ông vì những giải thích về hiện tượng điện quang và các đóng góp cho vật lý. 
+
+Mãi đến sau này, người ta mới biết rằng thuyết tương đối của ông có tác động lớn thế nào. Nhờ Einstein, nhận thức về vũ trụ đã thay đổi hoàn toàn, và thậm chí nó đã giúp hình thành nên một thế giới mà chúng ta đang sống ngày nay.
+
+1. Mối quan hệ giữa không gian - thời gian
+
+Một trong những thành tựu sớm nhất của Einstein ở tuổi 26 là thuyết tương đối hẹp. Sở dĩ được gọi như vậy vì nó đề cập đến chuyển động tương đối trong trường hợp đặc biệt khi lực hấp dẫn bị bỏ qua.
+
+Điều này nghe có vẻ vô thưởng vô phạt, nhưng đó kỳ thực là một trong những cuộc cách mạng khoa học vĩ đại nhất trong lịch sử, thay đổi hoàn toàn cách các nhà vật lý suy nghĩ về không gian và thời gian
+
+Trước đây, chúng ta nghĩ về không gian và thời gian là hoàn toàn tách biệt, bởi vì chúng được đo lường bằng các đơn vị khác nhau, chẳng hạn như km hay giây.
+
+Nhưng Einstein đã chỉ ra cách chúng thực sự có thể hoán đổi cho nhau, liên kết với nhau thông qua tốc độ ánh sáng, với xấp xỉ 300.000 km/giây.
+
+Hệ quả nổi tiếng nhất của thuyết tương đối hẹp là không gì có thể truyền đi nhanh hơn ánh sáng. Nhưng nó cũng có nghĩa là mọi thứ bắt đầu hoạt động rất kỳ lạ khi tốc độ ánh sáng được tiếp cận.
+
+Điển hình như nếu bạn có thể nhìn thấy một con tàu vũ trụ đang di chuyển với tốc độ bằng 80% tốc độ ánh sáng, nó sẽ trông có vẻ ngắn hơn khoảng 40% so với khi xuất hiện ở trạng thái nghỉ.
+
+Nếu bạn có thể nhìn thấy bên trong con tàu này, mọi thứ sẽ dường như chuyển động chậm, với tương ứng sẽ mất 100 giây để đánh dấu một phút, theo đo lường của HyperPhysics thuộc Đại học Georgia State (Mỹ).
+
+Điều này có nghĩa là phi hành đoàn của tàu vũ trụ sẽ thực sự già đi chậm hơn khi họ di chuyển nhanh hơn.
+
+2. E = mc ^ 2
+
+Phương trình nổi tiếng trở thành biểu tượng của Einstein.
+
+Một nhánh rẽ bất ngờ của thuyết tương đối hẹp là phương trình nổi tiếng E = mc ^ 2 của Einstein. Đây có thể là công thức toán học duy nhất đạt đến trạng thái "biểu tượng văn hóa".
+
+Sở dĩ nổi tiếng như vậy là vì phương trình đã biểu thị sự tương đương của khối lượng (m) và năng lượng (E) - vốn là 2 thông số vật lý trước đây được cho là hoàn toàn tách biệt.
+
+Trong vật lý truyền thống, khối lượng đo lượng vật chất chứa trong một vật thể, trong khi năng lượng là một đặc tính mà vật thể có được nhờ chuyển động của nó và các lực tác dụng lên nó.
+
+Tuy nhiên, phương trình của Einstein nói rằng khối lượng và năng lượng về cơ bản là như nhau, miễn là bạn nhân khối lượng với c ^ 2 - hay bình phương của tốc độ ánh sáng (một con số rất lớn), để đảm bảo rằng nó kết thúc bằng một đơn vị là năng lượng.
+
+3. Tia laser
+
+Laser là một thành phần thiết yếu của công nghệ hiện đại. Chúng có nhiều ứng dụng, từ máy đọc mã vạch, con chuột laser, cho đến ảnh ba chiều và cáp quang.
+
+Mặc dù laser không thường được gắn liền với Einstein, nhưng một số công trình nghiên cứu của ông đã khiến chúng trở nên khả thi.
+
+Năm 1959, khái niệm laser ra đời, là viết tắt của "sự khuếch đại ánh sáng bằng cách phát xạ kích thích". Trong khi đó, phát xạ kích thích là một khái niệm mà Einstein đã phát triển hơn 40 năm trước đó, theo Hiệp hội Vật lý Hoa Kỳ.
+
+Einstein nhận ra rằng các photon mới di chuyển theo cùng một hướng, cùng tần số và cùng pha với photon ban đầu. Điều này dẫn đến "hiệu ứng thác", khi ngày càng có nhiều photon gần như giống hệt nhau được tạo ra.
+
+4. Hố đen, lỗ giun vũ trụ
+
+Thuyết tương đối hẹp của Einstein đã chỉ ra rằng "không-thời gian" có thể khiến một số điều kỳ lạ xảy ra, ngay cả khi không có trường hấp dẫn.
+
+Ông phát hiện ra rằng các vật thể khổng lồ như hành tinh và các ngôi sao thực sự làm biến dạng cấu trúc của "không-thời gian". Chính sự biến dạng này đã tạo ra các hiệu ứng mà chúng ta nhận thấy là lực hấp dẫn.
+
+Einstein giải thích thuyết tương đối rộng thông qua một tập hợp các phương trình phức tạp, có rất nhiều ứng dụng.
+
+Có lẽ giải pháp nổi tiếng nhất dựa trên các phương trình của Einstein đến từ giải pháp của Karl Schwarzschild vào năm 1916, khi ông nhắc tới một lỗ đen trong vũ trụ.
+
+Bên cạnh đó, một giải pháp mà chính Einstein đã phát triển vào năm 1935 mô tả khả năng xảy ra các đường tắt từ một điểm trong "không-thời gian" đến một điểm khác.
+
+Ban đầu, khái niệm này được đặt tên là cầu Einstein-Rosen (với Rosen là tên cộng sự Nathan Rosen của Einstein). Giờ đây, chúng được biết đến với cái tên quen thuộc hơn là lỗ giun.
+
+5. Sự giãn nở của vũ trụ
+
+Một trong những điều đầu tiên Einstein đã làm với các phương trình thuyết tương đối rộng của chính ông vào năm 1915, là áp dụng chúng vào vũ trụ.
+
+Thế nhưng, có một vấn đề mà bản thân ông đã không thể lý giải được, đó là cấu trúc không gian dường như luôn ở trong trạng thái giãn nở liên tục. Hệ quả là nó tác động đến các thiên hà, khiến khoảng cách giữa chúng không ngừng tăng lên.
+
+Nhận thấy có điều gì đó không đúng ở đây, Einstein đã thêm một khái niệm gọi là hằng số vũ trụ vào các phương trình của mình để tạo ra một vũ trụ tĩnh, hoạt động ổn định.
+
+6. Bom nguyên tử
+
+Mặc dù không phải là trực tiếp, nhưng Einstein vẫn được ghi nhận với "phát minh" vũ khí hạt nhân thông qua phương trình E = mc ^ 2 của ông.
+
+Trên thực tế, Einstein vẫn đóng một vai trò quan trọng trong quá trình phát triển thực tế của những quả bom nguyên tử đầu tiên.
+
+Năm 1939, Einstein gửi một bức thư cho tổng thống Hoa Kỳ, Franklin D. Roosevelt, nói về khả năng phân hạch hạt nhân và nỗi kinh hoàng sẽ xảy ra nếu Đức Quốc xã có được những vũ khí như vậy.
+
+Hệ quả của bức thư nổi tiếng nêu trên là việc thành lập ra "Dự án Manhattan" - dự án tạo ra những quả bom nguyên tử đầu tiên của Mỹ được sử dụng để chống lại Nhật Bản vào cuối Thế chiến II.
+
+7. Sóng hấp dẫn
+
+Einstein qua đời vào năm 1955, nhưng di sản khoa học khổng lồ của ông vẫn tiếp tục gây chú ý ngay cả trong thế kỷ 21.
+
+Điều này xảy ra vào tháng 2/2016 với việc công bố phát hiện ra sóng hấp dẫn - một hệ quả khác của thuyết tương đối rộng.
+
+Sóng hấp dẫn là những gợn sóng nhỏ truyền qua cấu trúc của "không-thời gian", và người ta thậm chí tuyên bố rằng Einstein đã "tiên đoán" về sự tồn tại của chúng, dù ông chưa từng nói về khái niệm này.
