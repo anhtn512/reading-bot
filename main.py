@@ -1,12 +1,12 @@
 import os
 import asyncio
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
+from llama_index.core import load_index_from_storage, VectorStoreIndex, Settings, StorageContext
 from llama_index.vector_stores.faiss import FaissVectorStore
-from llama_index.core import StorageContext
-from llama_index.llms.gemini import Gemini
-from llama_index.embeddings.gemini import GeminiEmbedding
+from llama_index.llms.google_genai import GoogleGenAI
+from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 import faiss
 import platform
+
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -14,28 +14,21 @@ load_dotenv()
 if "GOOGLE_API_KEY" not in os.environ:
     raise ValueError("GOOGLE_API_KEY not set in environment variables")
 
-# Configure Gemini with Vietnamese output
-Settings.embed_model = GeminiEmbedding(model_name="models/embedding-001")
-Settings.llm = Gemini(model_name="models/gemini-1.5-flash")
+# Configure Google GenAI with Vietnamese output
+Settings.embed_model = GoogleGenAIEmbedding(model_name="models/embedding-001")
+Settings.llm = GoogleGenAI(model_name="models/gemini-1.5-flash")
 
 # Load vector store
 def load_index(persist_dir):
     if not os.path.exists(persist_dir):
         raise ValueError(f"Persist directory {persist_dir} does not exist.")
-    try:
-        # Load FAISS vector store
-        vector_store = FaissVectorStore.from_persist_dir(persist_dir)
-        # Load storage context with vector store
-        storage_context = StorageContext.from_defaults(vector_store=vector_store, persist_dir=persist_dir)
-        # Rebuild index from vector store
-        index = VectorStoreIndex.from_vector_store(
-            vector_store=vector_store,
-            storage_context=storage_context
-        )
-        return index
-    except Exception as e:
-        print(f"Error loading vector store: {e}")
-        raise
+    faiss_index_path = os.path.join(persist_dir, "faiss_index.bin")
+    if not os.path.exists(faiss_index_path):
+        raise ValueError(f"FAISS index file {faiss_index_path} does not exist.")
+    faiss_index = faiss.read_index(faiss_index_path)
+    vector_store = FaissVectorStore(faiss_index=faiss_index)
+    storage_context = StorageContext.from_defaults(vector_store=vector_store, persist_dir=persist_dir)
+    return load_index_from_storage(storage_context=storage_context)
 
 # Query index with Vietnamese response
 def query_index(index, query):
