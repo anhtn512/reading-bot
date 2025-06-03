@@ -1,3 +1,4 @@
 .env
 vector_store/*.json
+vector_store/*.bin
 documents/*.txt
